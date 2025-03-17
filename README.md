@@ -4,6 +4,7 @@ Progetto per il corso Programmazione Web e Servizi Digitali a.a. 2023/2024, iner
 ## Tecnologie utilizzate:
 - **HTML5, JS (jquery, ajax), CSS**
 - **Framework Bootstrap5.3**
-- **Framework Laravel PHP** 
+- **Framework Laravel PHP**
+- **MySQL**
 
 Codice del progetto su richiesta.
